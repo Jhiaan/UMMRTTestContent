@@ -1,0 +1,139 @@
+﻿[
+  {
+    "Key": "UMMRTTCLightArmor_Item.Name",
+    "ProcessTemplates": false,
+    "enGB": "Khelthanis Ranger Armor"
+  },
+
+  {
+    "Key": "UMMRTTCLightArmorEmpty_Item.Description",
+    "ProcessTemplates": false,
+    "enGB": ""
+  },
+
+  {
+    "Key": "UMMRTTCLightArmor3_Item.Description",
+    "ProcessTemplates": true,
+    "enGB": "<b>Base {g|Encyclopedia:WarhammerArmourGlossary}armour{/g} property</b>: +25% {g|Encyclopedia:DodgeGlossary}dodge{/g} if the wielder's {g|Encyclopedia:WarhammerAgility}Agility{/g} is more than 60.\nImmune to {g|Encyclopedia:BurningEffect}burning{/g}, {g|Encyclopedia:ToxinEffect}toxin{/g}, and {g|Encyclopedia:BleedingEffect}bleeding{/g}."
+  },
+
+  {
+    "Key": "UMMRTTCPlayerLightArmor_Item.Name",
+    "ProcessTemplates": false,
+    "enGB": "Lethusa Selael's Armor"
+  },
+
+  {
+    "Key": "UMMRTTCPlayerLightArmorEmpty_Item.Description",
+    "ProcessTemplates": false,
+    "enGB": ""
+  },
+
+  {
+    "Key": "UMMRTTCPlayerLightArmor3_Item.Description",
+    "ProcessTemplates": true,
+    "enGB": "<b>Base {g|Encyclopedia:WarhammerArmourGlossary}armour{/g} property</b>: +25% {g|Encyclopedia:DodgeGlossary}dodge{/g} if the wielder's {g|Encyclopedia:WarhammerAgility}Agility{/g} is more than 60.\nImmune to {g|Encyclopedia:BurningEffect}burning{/g}, {g|Encyclopedia:ToxinEffect}toxin{/g}, and {g|Encyclopedia:BleedingEffect}bleeding{/g}."
+  },
+
+  {
+    "Key": "UMMRTTCForceSword_Item.Name",
+    "ProcessTemplates": false,
+    "enGB": "Laevyss Force Sword"
+  },
+
+  {
+    "Key": "UMMRTTCForceSword1_Item.Description",
+    "ProcessTemplates": true,
+    "enGB": "Most <b>{g|Encyclopedia:CareerFighterGlossary}warriors{/g}</b> prefer swords for they provide more flexibility on the battlefield against close combat enemies.\n+10% {g|Encyclopedia:Parry}parry{/g}\n−10 to enemy <b>{g|Encyclopedia:WarhammerWeaponSkill}Weapon Skill{/g}</b> when <b>{g|Encyclopedia:HitSequenceGlossary}hit{/g}</b>\n+10 Willpower\nDeals an additional <b>+{g|Encyclopedia:PsyRating}psy rating{/g}</b> <b>{g|Encyclopedia:DamageGlossary}damage{/g}</b>."
+  },
+
+  {
+    "Key": "UMMRTTCForceSword2_Item.Description",
+    "ProcessTemplates": true,
+    "enGB": "Most <b>{g|Encyclopedia:CareerFighterGlossary}warriors{/g}</b> prefer swords for they provide more flexibility on the battlefield against close combat enemies.\n+10% {g|Encyclopedia:Parry}parry{/g}\n−10 to enemy <b>{g|Encyclopedia:WarhammerWeaponSkill}Weapon Skill{/g}</b> when <b>{g|Encyclopedia:HitSequenceGlossary}hit{/g}</b>\n+20 Willpower\n+25 Perception\nDeals an additional <b>+{g|Encyclopedia:PsyRating}psy rating{/g}</b> <b>{g|Encyclopedia:DamageGlossary}damage{/g}</b>."
+  },
+
+  {
+    "Key": "UMMRTTCForceSword3_Item.Description",
+    "ProcessTemplates": true,
+    "enGB": "Most <b>{g|Encyclopedia:CareerFighterGlossary}warriors{/g}</b> prefer swords for they provide more flexibility on the battlefield against close combat enemies.\n+25% {g|Encyclopedia:Parry}parry{/g}\n−25 to enemy <b>{g|Encyclopedia:WarhammerWeaponSkill}Weapon Skill{/g}</b> when <b>{g|Encyclopedia:HitSequenceGlossary}hit{/g}</b>\n+20 Willpower\n+25 Perception\nDeals an additional <b>+{g|Encyclopedia:PsyRating}psy rating{/g}</b> <b>{g|Encyclopedia:DamageGlossary}damage{/g}</b>."
+  },
+
+  {
+    "Key": "UMMRTTCPowerSword_Item.Name",
+    "ProcessTemplates": false,
+    "enGB": "Menelgren Power Sword"
+  },
+
+  {
+    "Key": "UMMRTTCPowerSword3_Item.Description",
+    "ProcessTemplates": true,
+    "enGB": "When the wielder successfully {g|Encyclopedia:Parry}parries{/g} with this power sword, they immediately counterattack with whichever attack costs the least {g|Encyclopedia:ActionPoints}AP{/g}. It also grants:\n -<indent=5%>+30% {g|Encyclopedia:Bonus}bonus{/g} to parry</indent>-<indent=5%>On a successful {g|Encyclopedia:HitSequenceGlossary}hit{/g} with this power sword, the target suffers a −10 {g|Encyclopedia:Penalty}penalty{/g} to {g|Encyclopedia:WarhammerWeaponSkill}Weapon Skill{/g}</indent>"
+  },
+
+  {
+    "Key": "UMMRTTCPowerAxe_Item.Name",
+    "ProcessTemplates": false,
+    "enGB": "[Terra-Pattern] Omnissian Power Axe"
+  },
+
+  {
+    "Key": "UMMRTTCBleederPistol_Item.Name",
+    "ProcessTemplates": false,
+    "enGB": "Aemesho Pistol"
+  },
+
+  {
+    "Key": "UMMRTTCBleederPistol_Item.Description",
+    "ProcessTemplates": true,
+    "enGB": "This pistol is equipped with an unusual serum that thins the blood, inflicting <b>{g|Encyclopedia:BleedingEffect}bleeding{/g}</b>\nIt also deals double <b>{g|Encyclopedia:DamageGlossary}damage{/g}</b> to adjacent enemies."
+  },
+
+  {
+    "Key": "UMMRTTCPsykerSpear_Item.Name",
+    "ProcessTemplates": false,
+    "enGB": "Celnys Spear"
+  },
+
+  {
+    "Key": "UMMRTTCPsykerSpear1_Item.Description",
+    "ProcessTemplates": true,
+    "enGB": "The wielder of this spear (power level 7) gains the <b>Lightning</b> <b>{g|Encyclopedia:Ability}ability{/g}</b>. The ability is also available in its <b>{g|Encyclopedia:HeroicAct}heroic act{/g}</b> and <b>{g|Encyclopedia:DesperateMeasure}desperate measure{/g}</b> versions. Power level affects the <b>{g|Encyclopedia:DamageGlossary}damage{/g}</b> of this power.\n+20 <b>{g|Encyclopedia:WarhammerWillpower}Willpower{/g}</b>\n+25 <b>{g|Encyclopedia:WarhammerPerception}Perception{/g}</b>"
+  },
+
+  {
+    "Key": "UMMRTTCPsykerSpear2_Item.Description",
+    "ProcessTemplates": true,
+    "enGB": "The wielder of this spear (power level 14) gains the <b>Lightning</b> <b>{g|Encyclopedia:Ability}ability{/g}</b>. The ability is also available in its <b>{g|Encyclopedia:HeroicAct}heroic act{/g}</b> and <b>{g|Encyclopedia:DesperateMeasure}desperate measure{/g}</b> versions. Power level affects the <b>{g|Encyclopedia:DamageGlossary}damage{/g}</b> of this power.\n+20 <b>{g|Encyclopedia:WarhammerWillpower}Willpower{/g}</b>\n+25 <b>{g|Encyclopedia:WarhammerPerception}Perception{/g}</b>"
+  },
+
+  {
+    "Key": "UMMRTTCPsykerSpear3_Item.Description",
+    "ProcessTemplates": true,
+    "enGB": "The wielder of this spear (power level 21) gains the <b>Lightning</b> <b>{g|Encyclopedia:Ability}ability{/g}</b>. The ability is also available in its <b>{g|Encyclopedia:HeroicAct}heroic act{/g}</b> and <b>{g|Encyclopedia:DesperateMeasure}desperate measure{/g}</b> versions. Power level affects the <b>{g|Encyclopedia:DamageGlossary}damage{/g}</b> of this power.\n+20 <b>{g|Encyclopedia:WarhammerWillpower}Willpower{/g}</b>\n+25 <b>{g|Encyclopedia:WarhammerPerception}Perception{/g}</b>"
+  },
+
+  {
+    "Key": "UMMRTTCSniperRiffle_Item.Name",
+    "ProcessTemplates": false,
+    "enGB": "Merianys Sniper Riffle"
+  },
+
+  {
+    "Key": "UMMRTTCHeavyBolter_Item.Name",
+    "ProcessTemplates": false,
+    "enGB": "Adepta Sororitas Heavy Bolter"
+  },
+
+  {
+    "Key": "UMMRTTCMeltaRiffle_Item.Name",
+    "ProcessTemplates": false,
+    "enGB": "Adeptus Mechanicus Melta"
+  },
+
+  {
+    "Key": "UMMRTTCMeltaRiffle_Item.Description",
+    "ProcessTemplates": true,
+    "enGB": "This melta weapon modified by the Adeptus Mechanicus has increased firepower and {g|Encyclopedia:Range}range{/g}</b>.\n In addition, all targets <b>{g|Encyclopedia:HitSequenceGlossary}hit{/g}</b> by its <b>{g|Encyclopedia:AreaOfEffect}area attack{/g}</b> deal 25 <b>{g|Encyclopedia:EnergyDamage}energy damage{/g}</b> to everyone in a 2-cell radius."
+  }
+]

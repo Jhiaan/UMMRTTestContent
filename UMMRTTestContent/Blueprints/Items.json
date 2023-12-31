@@ -1,0 +1,102 @@
+﻿[
+  {
+    "Name": "UMMRTTCLightArmor1_Item",
+    "Guid": "6b3ac936-666c-4462-9411-c285c510b6e3"
+  },
+  {
+    "Name": "UMMRTTCLightArmor2_Item",
+    "Guid": "4e562fd4-5007-497a-9900-a15d7628d66d"
+  },
+  {
+    "Name": "UMMRTTCLightArmor3_Item",
+    "Guid": "0985eaf0-2482-4837-b1f2-e343e4bf49ba"
+  },
+  {
+    "Name": "UMMRTTCPlayerLightArmor1_Item",
+    "Guid": "ab00a9b8-47d7-48c6-8644-5fcabc434f28"
+  },
+  {
+    "Name": "UMMRTTCPlayerLightArmor2_Item",
+    "Guid": "87f73aa2-fe7e-410b-9da9-62d4a99a5e9a"
+  },
+  {
+    "Name": "UMMRTTCPlayerLightArmor3_Item",
+    "Guid": "ee8af193-8dd2-4499-a064-69be7c0023d2"
+  },
+  {
+    "Name": "UMMRTTCForceSword1_Item",
+    "Guid": "765d465a-fcaa-44b9-9ec0-358d76095a01"
+  },
+  {
+    "Name": "UMMRTTCForceSword2_Item",
+    "Guid": "b92ecdda-97e7-443b-81a1-f669ab24e28b"
+  },
+  {
+    "Name": "UMMRTTCForceSword3_Item",
+    "Guid": "d18a5e16-ac35-480b-9b10-c640c3df8853"
+  },
+  {
+    "Name": "UMMRTTCPowerSword1_Item",
+    "Guid": "4290020e-4391-4138-b4ce-8872e1a74331"
+  },
+  {
+    "Name": "UMMRTTCPowerSword2_Item",
+    "Guid": "7c0538f2-5c31-47a7-a167-06ef33a5d48a"
+  },
+  {
+    "Name": "UMMRTTCPowerSword3_Item",
+    "Guid": "90252ad3-9990-4dbf-b2e6-7d23a9b65f24"
+  },
+  {
+    "Name": "UMMRTTCPowerAxe1_Item",
+    "Guid": "e33bc4b9-665b-44c9-9993-3919bf37abb6"
+  },
+  {
+    "Name": "UMMRTTCPowerAxe2_Item",
+    "Guid": "ae8d8b1d-09ab-4688-bb25-26bd098af4df"
+  },
+  {
+    "Name": "UMMRTTCPowerAxe3_Item",
+    "Guid": "c4dc6a55-6718-406b-aee0-8638330be243"
+  },
+  {
+    "Name": "UMMRTTCHeavyBolter1_Item",
+    "Guid": "6cf8344f-04ab-4bb4-958d-06a6dd8297ec"
+  },
+  {
+    "Name": "UMMRTTCHeavyBolter2_Item",
+    "Guid": "03a6edc1-9a5e-4b08-89eb-1abbb7ec4f96"
+  },
+  {
+    "Name": "UMMRTTCHeavyBolter3_Item",
+    "Guid": "7731b034-5dab-42c3-98a4-133c074c7e0c"
+  },
+  {
+    "Name": "UMMRTTCBleederPistol_Item",
+    "Guid": "15ae5aa4-3bd9-4302-b40c-8d8a0ec51c59"
+  },
+  {
+    "Name": "UMMRTTCPsykerSpear1_Item",
+    "Guid": "c8e52eaf-d66c-4e70-b2ca-b6f2a04a2488"
+  },
+  {
+    "Name": "UMMRTTCPsykerSpear2_Item",
+    "Guid": "d6e81804-d753-4b47-82ce-585af9756f60"
+  },
+  {
+    "Name": "UMMRTTCPsykerSpear3_Item",
+    "Guid": "aaa72913-a700-4a4b-88c9-8d7008e248fb"
+  },
+  {
+    "Name": "UMMRTTCSniperRiffle1_Item",
+    "Guid": "7b7bc04c-f8c8-433d-999e-4ce53d482603"
+  },
+  {
+    "Name": "UMMRTTCSniperRiffle2_Item",
+    "Guid": "512bc655-a7c5-4f1a-9aff-21aabc254eee"
+  },
+  {
+    "Name": "UMMRTTCMeltaRiffle_Item",
+    "Guid": "faee4848-7d49-4e13-a479-316b3ce3dd7f"
+  }
+]

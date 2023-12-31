@@ -1,0 +1,33 @@
+[
+  {
+    "Key": "UMMRTTCSentinel_Homeworld.Name",
+    "ProcessTemplates": false,
+    "enGB": "Sentinel World"
+  },
+
+  {
+    "Key": "UMMRTTCSentinel_Homeworld.Description",
+    "ProcessTemplates": false,
+    "enGB": "A Sentinel World, also sometimes called a Bastion World, is an Imperial planet that has been designated in the Era Indomitus to serve as an inviolable bulwark of the Emperor of Mankind's order within the region of the galaxy known as the Imperium Nihilus. Sentinel Worlds are expected to defend themselves against all the horrors assaulting the Dark Imperium beyond their aegis since it was cut off from the rest of the Emperor's realm with the birth of the Great Rift."
+  },
+  {
+    "Key": "UMMRTTCAllAttributesAdvancement.Name",
+    "ProcessTemplates": false,
+    "enGB": "All Characteristics"
+  },
+  {
+    "Key": "UMMRTTCAllAttributesAdvancement.Description",
+    "ProcessTemplates": false,
+    "enGB": "Add +5 to all characteristics"
+  },
+  {
+    "Key": "UMMRTTCAllSkillsAdvancement.Name",
+    "ProcessTemplates": false,
+    "enGB": "All Skills"
+  },
+  {
+    "Key": "UMMRTTCAllSkillsAdvancement.Description",
+    "ProcessTemplates": false,
+    "enGB": "Add +10 to all skills"
+  }
+]

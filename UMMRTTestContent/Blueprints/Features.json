@@ -1,0 +1,18 @@
+[
+  {
+    "Name": "UMMRTTCLightArmor_Feature",
+    "Guid": "39124217-9f92-4b60-b590-e5c4c8d90fb4"
+  },
+  {
+    "Name": "UMMRTTCSentinel_Homeworld",
+    "Guid": "68629c17-b0a8-42c4-a23c-655c77bf9698"
+  },
+  {
+    "Name": "UMMRTTCAllAttributesAdvancement",
+    "Guid": "4b4b5633-c761-482c-baf7-459b830cc5f1"
+  },
+  {
+    "Name": "UMMRTTCAllSkillsAdvancement",
+    "Guid": "cae07d1e-c09f-453e-811e-81585b273b5e"
+  }
+]
